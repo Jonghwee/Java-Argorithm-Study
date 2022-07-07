@@ -12,21 +12,22 @@ public class Boj2738 {
         int[][] B = new int[N][M];
         int[][] result = new int[N][M];
         
-        for(int i=1;i<=N;i++){
-            for(int j=1;j<=M;j++){
+        for(int i=0;i<N;i++){
+            for(int j=0;j<M;j++){
                 A[i][j]=sc.nextInt();
             }
         }
-        for(int i=1;i<=N;i++){
-            for(int j=1;j<=M;j++){
+        for(int i=0;i<N;i++){
+            for(int j=0;j<M;j++){
                 B[i][j]=sc.nextInt();
             }
         }
-        for(int i=1;i<=N;i++){
-            for(int j=1;j<=M;j++){
+        for(int i=0;i<N;i++){
+            for(int j=0;j<M;j++){
                 result[i][j]=A[i][j]+B[i][j];
+                System.out.println(result[i][j]);
             }
         }
-        System.out.println(result);
+        sc.close();
     }
 }
