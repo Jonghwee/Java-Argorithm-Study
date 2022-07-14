@@ -1,4 +1,4 @@
-package jonghwee.text_0713;
+package jonghwee.test_0713;
 
 import java.io.BufferedReader;
 import java.io.IOException;

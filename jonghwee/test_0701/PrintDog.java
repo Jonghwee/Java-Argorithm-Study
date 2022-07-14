@@ -1,4 +1,4 @@
-package jonghwee;
+package jonghwee.test_0701;
 
 public class PrintDog {
     public static void main(String[] args){
