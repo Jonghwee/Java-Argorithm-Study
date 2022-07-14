@@ -10,5 +10,7 @@ public class Boj1000_0701{
        int B = sc.nextInt();
 
        System.out.println(A+B);
+
+       sc.close();
     }
 }
