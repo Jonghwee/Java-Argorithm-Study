@@ -8,9 +8,9 @@ public class Boj11718 {
     public static void main(String[] args){
         try{
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-            String str = br.readLine();
+            String str;
             
-            if(str != null){
+            while((str = br.readLine()) != null){
                 System.out.println(str);
             }
         } catch (IOException e) {
@@ -18,3 +18,18 @@ public class Boj11718 {
         }
     }
 }
+
+// import java.util.Scanner;
+ 
+// public class Boj11718 {
+ 
+//    public static void main(String[] args) {
+ 
+//       Scanner sc = new Scanner(System.in);
+      
+//       while(sc.hasNext()){
+//             String a = sc.nextLine();
+//             System.out.println(a);
+//         }
+//     }
+// }

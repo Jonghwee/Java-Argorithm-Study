@@ -12,5 +12,7 @@ public class Boj10872 {
             result *= i;
         }
         System.out.println(result);
+
+        sc.close();
     }
 }
