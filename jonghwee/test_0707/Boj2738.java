@@ -41,6 +41,7 @@ public class Boj2738 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
         StringTokenizer st = new StringTokenizer(line);
+        //StringTokenizer는 입력값을 토큰단위, 즉 문자열 단위(쉽게말하면 한 단어)로 끊어주는 메소드
 
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
