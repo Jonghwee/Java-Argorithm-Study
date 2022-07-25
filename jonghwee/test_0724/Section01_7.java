@@ -25,11 +25,8 @@ public class Section01_7 {
             sb.append(c); 
         }
         sb.reverse();
-
         //sb.reverse()는 StringBuilder 객체를 리턴하기 때문에 toString을 통해 String으로 바꿔줄 수 있다. (출력값은 같음)
-        System.out.println(sb2);
-        System.out.println(sb);
-        
+
         if(sb==sb2){
             bw.write("YES");
         }else{
