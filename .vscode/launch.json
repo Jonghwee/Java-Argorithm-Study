@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj1000_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj1000_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj1001_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj1001_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj1008_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj1008_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10869_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj10869_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10998_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj10998_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj11382_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj11382_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj1330_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj1330_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj14681_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj14681_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2420_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj2420_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2753_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj2753_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj9498_0701",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Boj9498_0701",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Date",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Date",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Main",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintCat",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.PrintCat",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintDog",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.PrintDog",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Register",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0701.Register",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10872",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj10872",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10950",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj10950",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10952",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj10952",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj15552",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj15552",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2438",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj2438",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2739",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj2739",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2741",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0704.Boj2741",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10807",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0705.Boj10807",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10871",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0705.Boj10871",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj5597",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0706.Boj5597",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2738",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0707.Boj2738",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj11654",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0708.Boj11654",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2743",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0708.Boj2743",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2744",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0708.Boj2744",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj2754",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0710.Boj2754",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10809",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0711.Boj10809",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj11718",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0713.Boj11718",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj10870",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0714.Boj10870",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj23037",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0714.Boj23037",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boj9086",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0714.Boj9086",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section01_1",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0717.Section01_1",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section01_2",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0717.Section01_2",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section01_3",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0717.Section01_3",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section01_4",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0720.Section01_4",
+            "projectName": "java argorithm study_54e4a0ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Section01_7",
+            "request": "launch",
+            "mainClass": "jonghwee.test_0724.Section01_7",
+            "projectName": "java argorithm study_54e4a0ee"
+        }
+    ]
+}

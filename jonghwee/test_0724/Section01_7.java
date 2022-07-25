@@ -13,16 +13,24 @@ public class Section01_7 {
 
         String str = br.readLine();
         StringBuilder sb = new StringBuilder(str.length());
+        StringBuilder sb2 = new StringBuilder(str.length());
+
+        for(int i=0;i<str.length();i++){
+            char c = Character.toUpperCase(str.charAt(i));
+            sb2.append(c); 
+        }
 
         for(int i=0;i<str.length();i++){
             char c = Character.toUpperCase(str.charAt(i));
             sb.append(c); 
         }
+        sb.reverse();
 
-        StringBuilder reverse = sb.reverse();
         //sb.reverse()는 StringBuilder 객체를 리턴하기 때문에 toString을 통해 String으로 바꿔줄 수 있다. (출력값은 같음)
+        System.out.println(sb2);
+        System.out.println(sb);
         
-        if(sb==reverse){
+        if(sb==sb2){
             bw.write("YES");
         }else{
             bw.write("NO");
