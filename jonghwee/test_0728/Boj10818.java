@@ -33,7 +33,7 @@ public class Boj10818{
         // System.out.println(min);
         // System.out.println(max);
 
-        bw.write(String.valueOf(min)+"\n"); //Integer.toString() 도 가능
+        bw.write(String.valueOf(min)+"\b"); //Integer.toString() 도 가능
         bw.write(Integer.toString(max));
         //bw.write는 int만 출력하는 것이 불가능.
         bw.flush();
